@@ -59,7 +59,7 @@ export default function Home() {
         <div style={styles.header}>
           <div style={styles.brand}>
             <div style={styles.logo}>S</div>
-            <div style={styles.title}>SplitSmart</div>
+            <div style={styles.title}>Kshitija's SplitSmart</div>
           </div>
           <div style={styles.groupPill}>My Group</div>
         </div>
